@@ -1,1 +1,2 @@
-print("hello world!")
+name = "Sandy"
+print("hello world " + name)
